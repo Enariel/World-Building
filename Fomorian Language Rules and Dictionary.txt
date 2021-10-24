@@ -1,0 +1,95 @@
+=======================================================
+ca → cea
+coː → ceo
+cu → ciu
+kɪ → coi | cai | cui
+k → c
+h → th
+χ → ch
+ç → c
+ɲ → nn
+^n → n
+n → n
+nˠ → nn
+ŋg → ng
+ŋ → ng
+m → m|mh
+p → p|ph|pf
+b → b
+d → d|dh
+l → l
+ɫ → l
+ʃa → sea
+sɪ → sai
+si → suí
+seː → sao
+ʃɔ → seo | sio
+ʃo → seo
+ʃu → siu
+ʃ → s
+s → c
+t → te / _{a,ɑː}
+t → t
+tu → tiu
+toː → teo
+tɛ → te
+t → t
+fi → faoi
+fɪ → fui
+fuː → fiú
+f → f
+ɡ → g
+ɟ → gh
+ɪ → i
+ɑː → ea / #n_
+eːɾ → éar
+ɾ → r
+ɾd → rdh
+v → bh|mh|bhdh
+d → d
+d → d
+əi → a
+eː → é
+ɛ → ei|e
+ɔ → o
+oː → ó
+iː → í
+uː → ú
+iə → ia
+{d,r}əu → aigh
+əu → ai
+uə → ua
+ʊ → u
+əuʃ → ais
+
+fʲoːmʲoːɾˠəu
+
+k ʃ b f c d ɾ m t ɡ ɫ s h n χ kɫ kɾ p fɾ ɟ p tɾ ç ɡɫ gl ɡɾ sk st tɾ ʃc bɾ cɾ dɾ χɫ ʃcɾ
+
+ɾ x s n v ɡ ɟ ɫ χt l m ʃ h m d k nt v ɾd st t ɲ ʃt ɾt nˠ v
+
+ɾ x s n v ɡ ɟ ɫ χt l m ʃ h m d k nt v ɾd st t ɲ ʃt ɾt nˠ v
+
+a ɪ ɑː iː eː ɔ uː oː ɛ uə ʊ iə əu əi ia
+
+ke kɛ kə ki cɑ cɔ cʊ ʃɑ ʃʊ sʊ tɔ tʊ t{ɛ,ɪ,ʊ,i} f{ɛ,e,ɾʊ} ɾʊɾ
+
+s → ʃ / V_V
+
+ADJECTIVE = IF #V THEN -toː IF #r THEN -əu ELSE -aí
+FEMENIZE = IF #V THEN -ʃ ELSE -aʃ
+OF.THE.HILLS = IF ʃ# THEN -ɪdɛ ELSE -ʃɪdɛ
+
+celestial, heavenly, cosmic : nn = cosmos-ADJECTIVE
+god : nm = celestial-spirit
+goddess : nf = god-FEMENIZE
+fae, fairy, faery, faerie, brownie, sprite : nf = spirit-OF.THE.HILLS
+fomorian : adj = fomor-ADJECTIVE
+
+cosmos : nn = nɑːm
+fomor : nm = ˈfɔmoːɾ
+spirit : nn = ˌəiˈnəim
+spirit, hillfolk : nf = ˈʃɪdɛ
+to be, be : v = sɛn
+to have, have : v = aɡ
+

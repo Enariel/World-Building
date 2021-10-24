@@ -1,0 +1,33 @@
+Elvish
+-Tonal
+-Limited consonants
+-Lots of vowels
+-Alphabet worked around the tones.
+-One tone per word "piece"
+
+Consonants - K, Kh, M, N, Zh, J, H, S(h), L, Q, W, B, Ng, Y, D, Dh
+Vowels Tones -
+Neutral - A, E, I, O, U
+Middle - Á, É, Í, Ó, Ú
+Hard - Ä, Ö, Ü 
+Other - A'a, Ou, Eu, E'e, Ii
+
+Wood Elves (lit. Spirit Elf) - Khämu'Án
+High Elves (lit. Elf from Silver) - JīnZhá'Án - If second vowel tone doesn't match, its dropped (to avoid two 'á, á').
+Dark Elves - (lit. Starry Night Elf) HëiDhiik'Án
+Tribe - LöQuo'Án
+Elf - 'Ána
+Elves - 'Án
+Capital - SiMouDü
+Old - QéngJiù
+Young - Saa'Qīng
+Twin - SangBáoTā
+Coast/Beach - SingHǎi
+Red - EuMár
+Tree - Sou
+Birth - Séng
+Place - Kan
+River - Na'ér
+Spirit (lit. Formless One) - RéLäng
+Desert - Khráng
+City (lit. Large Gathering of Elves) - SeiNa'Án
